@@ -118,7 +118,10 @@ body{
     color:#2880ae ;
 }
 .dark .header{
-    background-color: #3b3b3c;
+    background-color: #292929;
+}
+.dark .landing .intro-text p{
+    color: black;
 }
 .dark .header .links .icon span{
     background-color: var(--main-color);
